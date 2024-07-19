@@ -1,0 +1,26 @@
+
+.product-mrgn{
+    margin-top: 1rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+}
+.product-list {
+    display: flex; 
+    flex-wrap: wrap; 
+    /* justify-content: space-evenly;  */
+    padding: 10px; 
+    gap: 20px;
+}
+
+.productcard{
+    padding: 10px;
+    height: 65vh;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 12px;
+    width: 21%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+
+}
